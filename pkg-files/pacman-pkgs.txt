@@ -66,6 +66,7 @@ kate
 kcodecs
 kcoreaddons
 kde-plasma-addons
+kdenlive
 kinfocenter
 kscreen
 kvantum-qt5
