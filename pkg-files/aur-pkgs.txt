@@ -12,6 +12,7 @@ nordic-darker-theme
 nordic-kde-git
 nordic-theme
 ocs-url
+pcloud-drive
 sddm-nordic-theme-git
 snapper-gui-git
 ttf-meslo
